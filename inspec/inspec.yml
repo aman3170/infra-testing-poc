@@ -1,0 +1,6 @@
+name: nginx-inspec
+title: NGINX Compliance Check
+version: 0.1.0
+depends: []
+supports:
+  - platform-family: debian
